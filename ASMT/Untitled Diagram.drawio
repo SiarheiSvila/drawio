@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T11:03:02.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.6" etag="YPvqOt53dURjKh4ZEVOE" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-25T11:22:05.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Ve6pUVto2Ijbrnq7647g" version="23.1.6" type="github">
   <diagram name="Page-1" id="EnvxecqukEoz71KV36R7">
-    <mxGraphModel>
+    <mxGraphModel dx="836" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GZA9-1PaTEFqysCTiF4f-16" target="GZA9-1PaTEFqysCTiF4f-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png;" vertex="1" parent="1">
+          <mxGeometry x="177" y="260" width="33" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-18" value="repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-19" value="repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="305" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-20" value="repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="305" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-21" value="repo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-22" value="repo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-23" value="~20 repositories" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GZA9-1PaTEFqysCTiF4f-29" target="GZA9-1PaTEFqysCTiF4f-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-29" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="460.5" y="279.26000000000005" width="59" height="81.48" as="geometry" />
+        </mxCell>
+        <mxCell id="GZA9-1PaTEFqysCTiF4f-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png;" vertex="1" parent="1">
+          <mxGeometry x="570" y="282.98" width="92" height="74.03" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
